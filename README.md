@@ -1,4 +1,4 @@
-# thirdDayPractice
+# Mediasoft Practice
 ## coded by Кузнецов Никита Дмитриевич PD-21-19
 
 ### Инструкция по запуску
