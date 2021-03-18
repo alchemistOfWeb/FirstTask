@@ -3,7 +3,7 @@
 
 ### Инструкция по запуску
 
-клонируем: git clone 
+клонируем: git clone https://github.com/alchemistOfWeb/MediasoftPractice.git
 
 потом запускаем: php $path/index.php 
 
