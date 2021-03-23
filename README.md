@@ -5,6 +5,8 @@
 
 клонируем: git clone https://github.com/alchemistOfWeb/MediasoftPractice.git
 
+если clone уже у вас на компе: git pull
+
 потом настраиваем сервер и запускаем
 
 каждое задание хранится в отдельной папке поэтому добавляем в путь номер задания
